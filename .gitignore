@@ -2,9 +2,6 @@
 logs/
 *.log
 
-#Ignore data files
-data/
-
 #Ignore environmental variables
 .env
 logs/
